@@ -46,7 +46,7 @@ class Config(object):
     DB_URL = os.environ.get("DB_URL","mongodb+srv://deepakkr4056:JBHEUzYMrbhnqhlo@cluster0.c7nho.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
-    RKN_PIC = os.environ.get("RKN_PIC", "https://telegra.ph/file/b746aadfe59959eb76f59.jpg")
+    RKN_PIC = os.environ.get("RKN_PIC", "https://files.catbox.moe/bb5fpq.jpg")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5573764259').split()]
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002573244505"))
 
