@@ -43,7 +43,7 @@ class Config(object):
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Rename_Wallah_Bot")     
-    DB_URL = os.environ.get("DB_URL","mongodb+srv://deepakkr4056:JBHEUzYMrbhnqhlo@cluster0.c7nho.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DB_URL = os.environ.get("DB_URL","mongodb+srv://studiosmovies54:vCny7EWR7QlGAabC@cluster0.z7ixg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
     RKN_PIC = os.environ.get("RKN_PIC", "https://files.catbox.moe/bb5fpq.jpg")
