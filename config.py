@@ -199,11 +199,11 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DramaAddaBackup`
     # ᴡʜᴏᴇᴠᴇʀ ɪs ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪs ᴡᴀʀɴᴇᴅ ⚠️ ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ #ғɪʀsᴛ ᴀɴᴅ ʟᴀsᴛ ᴡᴀʀɴɪɴɢ ⚠️
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
     
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digital-Rename-Bot</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/bosspremff2005/Rename-Wallah-Bot>Rᴇɴᴀᴍᴇ Wᴀʟʟᴀʜ</a>
 
-• ❣️ <a href=https://github.com/RknDeveloper>RknDeveloper</a>
-• ❣️ <a href=https://github.com/DigitalBotz>DigitalBotz</a>
-• ❣️ <a href=https://github.com/JayMahakal98>Jay Mahakal</a> """
+• ❣️ <a href=https://github.com/bosspremff2005>BossDeveloper</a>
+• ❣️ <a href=https://github.com/bosspremff2005>BossDeveloper</a>
+• ❣️ <a href=https://github.com/bosspremff2005>BossDeveloper</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -220,8 +220,8 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DramaAddaBackup`
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Bosss_Support_Bot
 """
     
-    RKN_PROGRESS = """<b>\n
-╭━━━━❰RKN PROCESSING...❱━➣
+    FILE_PROGRESS = """<b>\n
+╭━━━━❰FILE PROCESSING...❱━➣
 ┣⪼ 🗃️ ꜱɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ ᴅᴏɴᴇ : {0}%
 ┣⪼ 🚀 ꜱᴩᴇᴇᴅ: {3}/s
