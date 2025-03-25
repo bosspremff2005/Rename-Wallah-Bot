@@ -220,7 +220,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DramaAddaBackup`
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Bosss_Support_Bot
 """
     
-    FILE_PROGRESS = """<b>\n
+    RKN_PROGRESS = """<b>\n
 ╭━━━━❰FILE PROCESSING...❱━➣
 ┣⪼ 🗃️ ꜱɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ ᴅᴏɴᴇ : {0}%
