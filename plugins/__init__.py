@@ -25,7 +25,7 @@ Repo Link : https://github.com/DigitalBotz/Digital-Rename-Bot
 License Link : https://github.com/DigitalBotz/Digital-Rename-Bot/blob/main/LICENSE
 """
 
-__name__ = "Digital-Rename-Bot"
+__name__ = "Rename Wallah"
 __version__ = "3.0.8"
 __license__ = " Apache License, Version 2.0"
 __copyright__ = "Copyright (C) 2022-present Digital Botz <https://github.com/bosspremff2005>"
@@ -33,7 +33,7 @@ __programer__ = "<a href=https://github.com/bosspremff2005/Rename-Wallah</a>"
 __library__ = "<a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>"
 __language__ = "<a href=https://www.python.org/>Pyᴛʜᴏɴ 3</a>"
 __database__ = "<a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>"
-__developer__ = "<a href=https://github.com/bosspremff2005</a>"
+__developer__ = "<a href=https://t.me/bosspremff>BossDeveloper</a>"
 __maindeveloper__ = "<a href=https://t.me/bosspremff>BossDeveloper</a>"
 
 # main copyright herders (©️)
