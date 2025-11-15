@@ -39,7 +39,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7743029629:AAHalOEo4TTKlC-q5SxNjgvVr-wh9y18270") 
 
     # premium account string session required 😢 
-    STRING_SESSION = os.environ.get("STRING_SESSION", "")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BQGtc7sAntCq-CqCK6mOODVDrPnumzDfKy0vzA1zRclW8Wb72l47R8tLVryc3ZD5T18JSeLqHtBuuksZX8_sAsF2__4mXOyOBApB3v7oDRZEmuX_acgOw8snqCnMlHeOn7X27pilNaTmpj0mhPe1uKa3G1PY5THdR91WiCA2ji3f14tCcRI7Di5UaVtIzwKKuHE9-Y3gdgKlsIKlvBhnYaRAVOEjKX1CAiPi87zc9xm6U2LgquXbWY-5mzvs6KRgFJfM7pY3f-cTvstW20qxdma_-wqQZ73F-JsvQESyUpHMjC4ygbNrou4d-__vIH9CBhs3xW0jNuTeOKAWs7f1ANG1sgl2vwAAAAFMOOSjAA")
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Rename_Wallah_Bot")     
@@ -102,7 +102,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @bosspremff 💞</b>"""
 •⪼ 🥈𝘚𝘪𝘭𝘷𝘦𝘳   -   7𝘥𝘢𝘺𝘴 -   59
 •⪼ 🥇𝘎𝘰𝘭𝘥    -  15𝘥𝘢𝘺𝘴 -   99
 •⪼ 🏆𝘗𝘭𝘢𝘵𝘪𝘯𝘶𝘮 -  1𝘮𝘰𝘯𝘵𝘩 -  179
-•⪼ 💎𝘋𝘪𝘢𝘮𝘰𝘯𝘥 -  2𝘮𝘰𝘯𝘵𝘩 -  339
+•⪼ 💎𝘋𝘪𝘢𝘮𝘰𝘯𝘥 -  6𝘮𝘰𝘯𝘵𝘩 -  350
 
 - 𝘋𝘢𝘪𝘭𝘺 𝘜𝘱𝘭𝘰𝘢𝘥 𝘓𝘪𝘮𝘪𝘵 𝘜𝘯𝘭𝘪𝘮𝘪𝘵𝘦𝘥
 - 𝘋𝘪𝘴𝘤𝘰𝘶𝘯𝘵 𝘈𝘭𝘭 𝘗𝘭𝘢𝘯 𝘙𝘴.9
