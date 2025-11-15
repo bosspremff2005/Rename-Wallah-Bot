@@ -39,7 +39,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7743029629:AAHalOEo4TTKlC-q5SxNjgvVr-wh9y18270") 
 
     # premium account string session required 😢 
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BQGtc7sAntCq-CqCK6mOODVDrPnumzDfKy0vzA1zRclW8Wb72l47R8tLVryc3ZD5T18JSeLqHtBuuksZX8_sAsF2__4mXOyOBApB3v7oDRZEmuX_acgOw8snqCnMlHeOn7X27pilNaTmpj0mhPe1uKa3G1PY5THdR91WiCA2ji3f14tCcRI7Di5UaVtIzwKKuHE9-Y3gdgKlsIKlvBhnYaRAVOEjKX1CAiPi87zc9xm6U2LgquXbWY-5mzvs6KRgFJfM7pY3f-cTvstW20qxdma_-wqQZ73F-JsvQESyUpHMjC4ygbNrou4d-__vIH9CBhs3xW0jNuTeOKAWs7f1ANG1sgl2vwAAAAFMOOSjAA")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BQGtc7sAs0bPZ8KQcWWcQZagErHizSv5wUKpHcSqniaunvWTTjQ6F07jnWW1r3kCRjCu3dHM_RsIesSrFLQfDjeIzrrd-W65_mmweizrAzakWIR_v9ryHozHrNadiq6DdGmyJss_0ouwx5bQwZHAdAQBeiWgwn2P9YMW7geCZwf--46f8CwaujCSjCb1LULDYlBWbNoG5SRL6kPBnneAUnrYTEW-KbSnXm8a_49G0uHq_iW-Nhpq5m8uxZbVbxvSSPYEE-b0iHx-HVzjy8V66tnFpoSCedVhgiOSiz9N_cd_QqqEakwgaG5HsJVsYwN0eCxmUNGVqbAwBfHaTCwaWJQXvi9r9AAAAAFMOOSjAA")
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Rename_Wallah_Bot")     
